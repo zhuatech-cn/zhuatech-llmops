@@ -1,5 +1,7 @@
 # ZhuaTech LLMOps
 
+[简体中文](README.md) | [English](README.en.md)
+
 ## 大模型运营、评测与治理平台｜社区源码版
 
 ZhuaTech LLMOps 由知华科技（上海如静知华信息科技有限公司）发布，帮助企业把不同模型、提示版本、评测标准、发布流程、在线指标、成本预算与安全策略纳入统一治理。
